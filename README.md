@@ -2,7 +2,7 @@
 
 ## Prerequisite: Install Pipenv
 Follow the official Pip installation guide to set up Pipenv on your system:  
-[Install Pipenv Documentation](https://pypi.org/project/pip/)
+[Install Pip Documentation](https://pypi.org/project/pip/)
 
 ---
 
